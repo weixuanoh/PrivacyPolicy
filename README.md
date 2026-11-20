@@ -1,6 +1,6 @@
 # Privacy Policy
 1. Introduction
-Digitalise Solutions ("we", "our", or "us") is committed to protecting the privacy of our users ("you" or "users"). This Privacy Policy describes how we collect, use, and disclose information when you use DS HRM, a human resource management application accessible through Google Play.
+Aizera Softec ("we", "our", or "us") is committed to protecting the privacy of our users ("you" or "users"). This Privacy Policy describes how we collect, use, and disclose information when you use Aizera HRM, a human resource management application accessible through Google Play.
 
 # 2. Information We Collect
 a. Personal Information
@@ -35,7 +35,7 @@ We retain personal data as long as it is necessary for the purposes described in
 You may have the right to access, correct, or delete your personal information stored within the app. Please contact us at [Your Contact Email] to make any requests regarding your data.
 
 # 8. Children’s Privacy
-DS HRM is not intended for use by children under 13, and we do not knowingly collect personal information from children.
+Aizera HRM is not intended for use by children under 13, and we do not knowingly collect personal information from children.
 
 # 9. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. You will be notified of any significant changes by an update in the app or via email.
@@ -43,6 +43,6 @@ We may update this Privacy Policy from time to time. You will be notified of any
 # 10. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-Email: weixuan.oh@digitalisesolutions.com
+Email: weixuan.oh@aizera.tech
 Address: 44, Jalan Pelepas 4/6, 81550 Gelang Patah, Johor
  
